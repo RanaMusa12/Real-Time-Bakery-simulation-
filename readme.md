@@ -137,5 +137,5 @@ sudo apt-get install build-essential freeglut3-dev
 
 ---
 
-Happy Baking! 🍪✨  
-Let the semaphores rise and the pastries shine! 🎂💻
+
+
